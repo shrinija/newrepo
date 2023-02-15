@@ -3,4 +3,8 @@ using namespace std;
 int main()
 {
     cout<<"shrinija";
+    cout<<"shrinija";
+    cout<<"shrinija";
+    cout<<"shrinija";
+    
 }
